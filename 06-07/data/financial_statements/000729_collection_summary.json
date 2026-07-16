@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "files": [
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2021_资产负债表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2021_利润表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2021_现金流量表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2021_财务指标.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2022_资产负债表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2022_利润表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2022_现金流量表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2022_财务指标.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2023_资产负债表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2023_利润表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2023_现金流量表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2023_财务指标.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2024_资产负债表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2024_利润表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2024_现金流量表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2024_财务指标.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2025_资产负债表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2025_利润表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2025_现金流量表.csv",
+    "/Users/Admin/workspace/python/claude-agent-sdk-demo/claude-agent/data/financial_statements/000729_2025_财务指标.csv"
+  ],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "competitors": [
+    {
+      "stock_code": "000729",
+      "stock_name": "燕京啤酒",
+      "market": "A股"
+    },
+    {
+      "stock_code": "600132",
+      "stock_name": "重庆啤酒",
+      "market": "A股"
+    }
+  ],
+  "industry": "啤酒",
+  "target_company": "青岛啤酒",
+  "target_code": "600600"
+}
